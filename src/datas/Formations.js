@@ -1,7 +1,7 @@
 const DataFormations = [
     {
         id: 1,
-        title:"Formation Full SDtack Developer - Spécialisation React/Symfony",
+        title:"Formation Full Stack Developer - Spécialisation React/Symfony",
         date:"2023",
         location:"3W Academy (télé présentiel)"
     },
