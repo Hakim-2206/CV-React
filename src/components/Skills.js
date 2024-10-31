@@ -11,7 +11,7 @@ function Skills() {
         <Skill  title="CSS" rating="4"/>
         <Skill  title="JAVASCRIPT" rating="4"/>
         <Skill  title="PHP" rating="3"/>
-        <Skill  title="REACT" rating="2"/>
+        <Skill  title="REACT" rating="3"/>
         <Skill  title="SYMFONY" rating="2"/>
     </div>
     <div className='skills'>
